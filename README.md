@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mikhail Tentser
 
-<!--
-**cavan120010/cavan120010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer focused on web scraping, automation, and data extraction.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python • Web Scraping • Playwright • Selenium • BeautifulSoup  
+Pandas • NumPy • SQL • APIs  
+Linux • Git
+
+## Specialization
+
+- Web scraping and data extraction
+- Marketplace data collection
+- Automation scripts
+- API integrations
+
+## Contact
+
+Telegram: t.me/mtentser
+discord: cavan101
