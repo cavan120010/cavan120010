@@ -20,3 +20,5 @@ Linux • Git
 Telegram: t.me/mtentser
 
 discord: cavan101
+
+email: tentser.mike@gmail.com
